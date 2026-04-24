@@ -1,6 +1,7 @@
 import { Button } from "@/components/ui/button";
 import Processcard from "@/components/Processcard";
 import Image from "next/image";
+import Link from "next/link";
 
 const page = () => {
   return (
@@ -165,9 +166,11 @@ const page = () => {
             Let&apos;s turn your vision into a website your customers will love.
             Reach out and let&apos;s build.
           </p>
-          <Button data-aos="fade-left" data-aos-delay="150">
-            start a project
-          </Button>
+          <Link href="/contact">
+            <Button data-aos="fade-left" data-aos-delay="150">
+              start a project
+            </Button>
+          </Link>
         </div>
       </section>
     </section>
