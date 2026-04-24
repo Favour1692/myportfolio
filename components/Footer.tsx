@@ -17,7 +17,7 @@ const Footer = () => {
           >
             <Link href="/" className="text-contrast font-semibold">
               <span className="text-brandaccent">fay</span>
-              <span className="text-brandcontrast">techh</span>
+              <span className="text-brandcontrast">techh.</span>
             </Link>
           </div>
         </div>

@@ -41,7 +41,7 @@ const Navbar = () => {
           <div className={`${logofont.className} antialiased text-2xl`}>
             <Link href="/" className="text-contrast font-semibold">
               <span className="text-brandaccent">fay</span>
-              <span className="text-brandcontrast">techh</span>
+              <span className="text-brandcontrast">techh.</span>
             </Link>
           </div>
           <div className="flex gap-10">

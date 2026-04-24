@@ -8,7 +8,7 @@ import AosInit from "@/components/AosInit";
 
 export const metadata: Metadata = {
   title: "faytechh",
-  description: "A website for a business agency company",
+  description: "my portfolio website",
 };
 
 export default function RootLayout({
